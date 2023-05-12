@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.5 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/BankAccount.dir/Sources/bankaccount.cpp.o CMakeFiles/BankAccount.dir/Sources/main.cpp.o CMakeFiles/BankAccount.dir/Sources/savingaccount.cpp.o -o BankAccount 
