@@ -1,1 +1,24 @@
-#will add
+
+  </head>
+  <body>
+    <h1>Oops Concepts in C++</h1>
+    <p>This repository contains the source code for the tutorial on OOPs Concepts in C++. The tutorial can be found at <a href="https://escalate.liveblog365.com/2023/05/13/oops-concepts-in-c/">https://escalate.liveblog365.com/2023/05/13/oops-concepts-in-c/</a>.</p>
+    <h2>How to Use</h2>
+    <p>To use this repository, follow the steps below:</p>
+    <ol>
+      <li>Clone the repository using Git:</li>
+      <pre><code>git clone https://github.com/aabhinavg/C-.git</code></pre>
+      <li>Navigate to the Rectangle project:</li>
+      <pre><code>cd /path/to/c-/Basic/Project/Rectangle</code></pre>
+      <li>Create a new build directory:</li>
+      <pre><code>mkdir build</code></pre>
+      <li>Navigate to the build directory:</li>
+      <pre><code>cd build</code></pre>
+      <li>Run CMake to generate the build files (Note: Make sure CMake is installed. If not, please install it):</li>
+      <pre><code>cmake ..</code></pre>
+      <li>Build the project:</li>
+      <pre><code>make</code></pre>
+    </ol>
+    <p>After following the above steps, you should have successfully built the project.</p>
+  </body>
+</html>
