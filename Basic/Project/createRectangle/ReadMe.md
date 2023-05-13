@@ -1,10 +1,11 @@
-
+<html>
+  <head>
+    <title>Oops Concepts in C++</title>
   </head>
   <body>
     <h1>Oops Concepts in C++</h1>
-    <p>This repository contains the source code for the tutorial on OOPs Concepts in C++. 
-      The tutorial can be found at :</p>
-  <button onclick='https://escalate.liveblog365.com/2023/05/13/oops-concepts-in-c/'>Go to Tutorial</button>
+    <p>This repository contains the source code for the tutorial on OOPs Concepts in C++. The tutorial can be found at:</p>
+   [Click Here For Tutorial](https://escalate.liveblog365.com/2023/05/13/oops-concepts-in-c/)
     <h2>How to Use</h2>
     <p>To use this repository, follow the steps below:</p>
     <ol>
